@@ -4,7 +4,7 @@
 
 
 ## 📖 Proyectos activos: 
-- <i>Sowk <code>Discord bot</code></i>: Bot con características avanzadas.
+- <i>Mager <code>Discord bot</code></i>: Bot con características avanzadas.
 
 ## 🏗️ Recursos:
 - [Nodejs](https://nodejs.org)
