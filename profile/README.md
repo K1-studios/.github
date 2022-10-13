@@ -4,7 +4,7 @@
 
 
 ## 📖 Proyectos activos: 
-- <i>Mager <code>Discord bot</code></i>: Bot con características avanzadas.
+- <i>[Krista](https://krista.ga) <code>Discord bot</code></i>: Bot con características avanzadas.
 
 ## 🏗️ Recursos:
 - [Nodejs](https://nodejs.org)
